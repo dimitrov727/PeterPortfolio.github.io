@@ -1,0 +1,6 @@
+.greeting{
+    color: blue;
+    font-size: 50px;
+    font-style: italic;
+    display: flex;
+}
